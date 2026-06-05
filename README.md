@@ -1,7 +1,7 @@
 # Enterprise ERP Architecture & Business Intelligence Analysis: MASIC Investment Case Study
 ## 📂 Project Structure Inside this Repository
 
-*   [📄 Click Here to Read the Full Technical Report (IS PROJECT.pdf)](IS%20PROJECT.pdf) — The complete, evaluated final technical report encompassing all analytical layers.
+*   [📄 Click Here to Read the Full Technical Report (Enterprise-ERP-Systems-Analysis-MASIC.pdf)](Enterprise-ERP-Systems-Analysis-MASIC.pdf) — The complete, evaluated final technical report encompassing all analytical layers.
 *   [📁 Architecture-Diagrams Framework](./Architecture-Diagrams) — Conceptual blueprints, operational IPO models, and enterprise high-level data flow integration diagrams[cite: 1].
 *   [📋 Interview_Framework.md](Interview_Framework.md) — The detailed 12-point system evaluation framework and requirements gathering blueprint utilized during on-site consultations.
   
