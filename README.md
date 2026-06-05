@@ -61,8 +61,4 @@ The study deep-dives into MASIC's hybrid enterprise software stack, exploring ho
 4.  **Stakeholder & Business Needs Matrix:** Bridging the requirements of high-net-worth family business assets with automated IT demand[cite: 2].
 5.  **Reflective Technical Experience:** Practical takeaways regarding user experience complexity reduction, fieldwork execution, and future tech readiness[cite: 2].
 
----
 
-## 📂 Project Structure Inside this Repository
-*   `IS PROJECT.pdf` — The complete, evaluated final technical report[cite: 2].
-*   `/Architecture-Diagrams` — Conceptual blueprints of enterprise data flow and stakeholder interactions.
